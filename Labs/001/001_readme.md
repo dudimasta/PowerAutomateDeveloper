@@ -7,5 +7,5 @@
         - e.g.: https://xpluspl-my.sharepoint.com/my?id=%2Fpersonal%2Frafal%5Fdudzinski%5Fxplusglobal%5Fcom%2FDocuments%2FTrainings&sortField=Modified&isAscending=false
     - login to https://make.powerautomate.com/ and select the environment where you want to develop the workflow, 
         - e.g.: https://make.powerautomate.com/environments/25446032-2572-e0be-8b70-9ee776729554/create
-- Solution:
-    - import 001_Create_a_recurring_flow_20241216150154.zip
+- Sample solution:
+    - 001_Create_a_recurring_flow_20241216150154.zip

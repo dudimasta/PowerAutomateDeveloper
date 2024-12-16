@@ -1,0 +1,12 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/get-started-flows/8-flow-share-flows
+- Scenario:
+    - grant another user access to your workflow
+- Steps to run:
+    - share with another user e.g. dax_vsts@onmicrosoft.com
+    - login as such another user
+    - browse history, edit a workflow
+    - such user gets access to all the connectors being used by the workflow
+    - pricing: https://www.microsoft.com/en-us/power-platform/products/power-automate/pricing
+        - highlight bots
+- Sample solution:
+    - no dedicated solution

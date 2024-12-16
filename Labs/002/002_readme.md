@@ -2,11 +2,11 @@
 - Scenario:
     - this workflow is triggered when an email arrives in specified outlook folder, e.g. Inbox
         - only emails with attachments and with subject 'Daily report' are considered
-    - it extracts the attachments and save them as file in indicated SharePoint folder, e.g. Documents/DemoFolder
+    - it extracts the attachments and saves them as file in indicated SharePoint folder, e.g. Documents/DemoFolder
 - Steps to run
     - compose an email with one or more attachments
     - in subject add: 'Daily report'
     - recipient: mailbox observed by the workflow, e.g. rafal.dudzinski@xplusglobal.com
     - send it and observe the attachments created in the sharepoint library indicated in the workflow
-- Solution:
-    - 
+- Sample solution:
+    - Labs\002\002_OutlookAttachmentsToSharepoint_20241216174650.zip
