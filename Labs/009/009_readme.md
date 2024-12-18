@@ -1,0 +1,8 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/manage-user-information/4-store-documents
+- Scenario:
+    - Placing an event in the Outlook Calendar
+- Steps to run:
+    - Follow the syllabus
+    - Notice: observe output in json, extract value from outcome of a previous step
+    - Test run from the web or from phone app
+- Sample solution: Labs/009/rdu_block_out_my_calendar_20241218131515.zip
