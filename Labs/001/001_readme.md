@@ -1,7 +1,7 @@
 - Syllabus: https://learn.microsoft.com/en-us/training/modules/get-started-flows/6-flow-scheduled-flows
 - Scenario:
-    - periodically read email adresses from the excel file
-    - foreach email read, compose and send an email usimg office account
+    - periodically read email addresses from the excel file
+    - foreach email read, compose and send an email using office account
 - Steps to run
     - copy the recipients.xlsx file to any folder in OneDrive for business
         - e.g.: https://xpluspl-my.sharepoint.com/my?id=%2Fpersonal%2Frafal%5Fdudzinski%5Fxplusglobal%5Fcom%2FDocuments%2FTrainings&sortField=Modified&isAscending=false

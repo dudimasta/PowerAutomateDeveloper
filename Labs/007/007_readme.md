@@ -1,6 +1,6 @@
 - Syllabus: https://learn.microsoft.com/en-us/training/modules/manage-user-information/2-tokens
 - Scenario:
-    - Build the appliaction (workflow) that accesses dynamic tokens from the device where it runs (location, date)
+    - Build the application (workflow) that accesses dynamic tokens from the device where it runs (location, date)
     - Use such token in the flow
 - Steps to run:
     - follow the steps in syllabus
