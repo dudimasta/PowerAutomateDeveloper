@@ -9,3 +9,4 @@
     - observe the steps of a flow are invocations of web services
     - to run on android, install Power Automate app from Google Play
 - Sample solution:
+    - Labs/007/rdu_send_email_to_coworkers_20241218104818.zip

@@ -1,0 +1,8 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/manage-user-information/3-user-input
+- Scenario:
+    - Create a workflow that sends a notification after time specified by a user
+- Steps to run:
+    - Follow the steps in the syllabus
+    - Run (from browser or phone app)
+    - observe the notification in the phone app
+- Sample solution: Labs/008/rdu_send_me_a_reminder_20241218.zip
