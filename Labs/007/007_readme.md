@@ -1,4 +1,11 @@
-- Syllabus:
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/manage-user-information/2-tokens
 - Scenario:
+    - Build the appliaction (workflow) that accesses dynamic tokens from the device where it runs (location, date)
+    - Use such token in the flow
 - Steps to run:
+    - follow the steps in syllabus
+    - Create a flow based on template 'Working from home today'
+    - After a run, observe parameters passed in and out of actions - notice json format
+    - observe the steps of a flow are invocations of web services
+    - to run on android, install Power Automate app from Google Play
 - Sample solution:
