@@ -1,0 +1,24 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/multiple-data-sources/2-event
+- Scenario:
+    - Scenario 1: using a cloud flow:
+        - when a record in DataVerse entity Account is created,
+        - create a record in DataVerse entity Task
+    - Scenario 2: using a cloud flow:
+        - when a record in DataVerse entity Task is created,
+        - create an element in Microsoft Planner
+- Steps to run:
+    - follow the syllabus, complete the **first cloud flow**
+    - navigate to 'Sales Hub' > Accounts > create new account
+    - navigate to Power Automate > observe the flow execution, examine inputs and outputs
+    - navigate to 'Sales Hub' > Activities, notice new activity (in table Task) is created
+    ---
+    - in Office Outlook Online, create a new group
+    - in MS Planner, create a new plan inside the group
+    - follow the syllabus, complete the **second cloud flow**
+    - navigate to 'Sales Hub' > Accounts > create new account
+    - observe new Activity in Data Verse and new task in MS Planner
+- Sample solution:
+    - flow creating an entry in MS Planner when an activity is created in DataVerse:
+        - Labs/010/rdu_create_task_when_account_created_20241218152754.zip
+    - flow creating an item in MS Planner when new task is created in DataVerse
+        - Labs/010/rdu_create_planner_task_for_activity_20241218161002.zip
