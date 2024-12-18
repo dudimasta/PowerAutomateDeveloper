@@ -1,0 +1,10 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/multiple-data-sources/3-sql
+- Scenario:
+- Steps to run:
+    - Create a list in Microsoft List with columns:
+        - Title (default column)
+        - Is TDD complete (No/Yes)
+        - Is Fdd complete (No/Yes)
+        - Specs URL (URL)
+        - Budget in hours (numeric)
+- Sample solution:
