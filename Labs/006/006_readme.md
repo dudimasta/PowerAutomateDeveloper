@@ -1,0 +1,13 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/build-approval-flows/6-branching
+- Scenario:
+    - When you need to enforce some business rules are met; the process is based on a Lead. During its phases records in the 
+        related tables are created (Opportunity, Quote)
+- Steps to run:
+    - In model-driven app, create a Business Process Flow
+    - Follow 'Create a business process flow' steps from the syllabus (e.g., on EA tenant)
+    - Associate the BPF created to the D365 CE App, e.g.: advanced settings > Customizations > Customize the system,
+        - select "Model-driven apps" and dbl click your application (here using Sales Hub)
+        - in processes find the BFP created/imported and mark it active
+        - Save and publish
+    - Test for a new and used car
+- Sample solution: Labs\006\rdu_bpf_car_sales_process_1_0_0_2.zip
