@@ -1,5 +1,7 @@
 - Syllabus: https://learn.microsoft.com/en-us/training/modules/multiple-data-sources/3-sql
 - Scenario:
+    - Create a flow synchronizing (one direction) SharePoint list and Az SQL database
+    - Examine PowerAutomate > Connections
 - Steps to run:
     - Create a list in Microsoft List with columns:
         - Title (default column)
@@ -7,4 +9,12 @@
         - Is Fdd complete (No/Yes)
         - Specs URL (URL)
         - Budget in hours (numeric)
+    - Create a new Az SQL connection in PowerAutomate > Connections
+    - Create a table in Azure SQL database, you can run a T-SQL script that will do it for you
+        - T-SQL script: `Labs/011/T_SQL_createTable.sql`
+    - Follow the syllabus with slight changes
+        - Use: **Get rows (v2)**
+        - Use filter condition based on ListItemId SQL column, filter query:
+            - `concat('ListItemId=', triggerBody()?['ID'])`
+        - to check if the corresponding record exists in the SQL db, add a condition (true/false) and count rowset length: `length(outputs('Get_rows_(V2)')?['body/value'])`
 - Sample solution:
