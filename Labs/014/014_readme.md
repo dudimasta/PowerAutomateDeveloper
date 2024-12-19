@@ -1,0 +1,10 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/ai-builder-power-automate/exercise
+- Scenario:
+    - Create a flow observing mail inbox
+    - Send the mail body to GPT for a summary
+    - Publish the summary in Teams
+    - Observe, the AI-generated content was published, not the original message from the PM.
+    - Notice, the AI model comes with the Power Platform, there is no need to deploy anything separately.
+- Steps to run:
+    - follow the syllabus
+- Sample solution: Labs/014/rdu_email_summarize_gpt_20241219144613.zip

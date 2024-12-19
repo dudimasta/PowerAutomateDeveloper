@@ -1,0 +1,8 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/multiple-data-sources/5-monitor
+- Scenario:
+    - Monitors flows using standard Power Automate features
+- Steps to run:
+    - examine flow executions, 
+    - look at the inputs and outputs of activities
+    - analyze the connectors defined in the environment and their relations to flows
+- Sample solution: none
