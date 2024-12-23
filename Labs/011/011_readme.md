@@ -15,6 +15,6 @@
     - Follow the syllabus with slight changes
         - Use: **Get rows (v2)**
         - Use filter condition based on ListItemId SQL column, filter query:
-            - `concat('ListItemId=', triggerBody()?['ID'])`
+            - `concat('ListItemId  eq ', triggerBody()?['ID'])`
         - to check if the corresponding record exists in the SQL db, add a condition (true/false) and count rowset length: `length(outputs('Get_rows_(V2)')?['body/value'])`
 - Sample solution:
