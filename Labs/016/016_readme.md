@@ -1,0 +1,17 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/ai-builder-power-automate/4-advanced-usage
+- Scenario (on a DataVerse environment):
+    - (Discussion only) Highlight templates using AI Builder 
+        - browse templates 
+        - key phrase 'AI Builder' 
+        - review the templates
+    - (Illustrated by the lab attached) Highlight option of creating a flow directly from a model
+        - find a model, e.g., 'Extract all the text in photos and PDF documents'
+        - create a flow out of it by clicking on 'Use prebuilt model > Use in a flow'
+- Steps to run:
+    - Follow the syllabus
+    - Examine flow `(rdu) Extract text from images or PDF documents using AI Builder Text Recognition`
+        - run flow
+        - provide path to a pdf or an image, e.g. 'Labs/016/No code AI Cheat Sheet by AI Builder.pdf'
+        - receive email presenting result of the OCR
+- Sample solution:
+    - Labs/016/rduExtracttextfromimageorPDF_20241227125339.zip
