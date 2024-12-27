@@ -1,0 +1,20 @@
+{
+  "@odata.context": "https://orgc4d99215.crm4.dynamics.com/api/data/v9.1/$metadata#Microsoft.Dynamics.CRM.PredictResponse",
+  "responsev2": {
+    "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+    "operationStatus": "Success",
+    "predictionId": "2be8e2a6-82ce-44f8-892e-cd0a0a61deb0",
+    "predictionOutput": {
+      "@odata.type": "#Microsoft.Dynamics.CRM.expando",
+      "text": "Subject: Project Kickoff\n\nDear Team,\n\nWe are excited to announce the kickoff of our new project, \"Phoenix.\" The initial meeting will take place on Monday, June 1st, at 10 AM via Zoom. Please prepare any questions or suggestions, as your input is crucial for the project's success. Confirm your attendance by the end of the day tomorrow. \n\nLooking forward to a productive session and a successful project launch.\n\nBest regards,  \nMiriam Graham  \nProject Manager, Contoso",
+      "finishReason": "stop",
+      "totalTokens@odata.type": "#Int64",
+      "totalTokens": 1455,
+      "promptTokens@odata.type": "#Int64",
+      "promptTokens": 1356,
+      "completionTokens@odata.type": "#Int64",
+      "completionTokens": 99,
+      "modelName": "gpt-4o-mini"
+    }
+  }
+}

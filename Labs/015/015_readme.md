@@ -1,0 +1,8 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/ai-builder-power-automate/3-ai-builder-actions
+- Scenario:
+    - uses DataVerse (D365 CE)
+    - Pass the text to AI Builder and request the sentiment analysis
+    - Store the original text along with the sentiment in Excel spreadsheet in OneDrive for Business
+- Steps to run:
+    - Follow the syllabus
+- Sample solution: (DV solution) Labs/015/RDUAIBuildersolution_1_0_0_1.zip
