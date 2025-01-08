@@ -1,0 +1,11 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/create-manage-automated-processes-with-power-automate/3-exercise-build-flow-to-send-automated-emails
+- Scenario: 
+    - Record opportunities in a custom table.
+    - Periodically executed flow takes a list of Opportunity records from DataVerse.
+    - An HTML table is being produced from the list.
+    - The HTML table is being sent to the recipients.
+- Steps to run:
+    - In DV, create a custom table, Opportunity. In standard D365 Sales, there is Opportunity table, anyway for purpose of this lab we are going create another table with same label (but with different system schema name).
+        - Follow the syllabus to create right columns, pay attention to column types.
+    - Create some data using Power Apps raw data view
+- Sample solution:

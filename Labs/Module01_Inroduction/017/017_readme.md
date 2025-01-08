@@ -1,0 +1,20 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/business-process-optimization-process-advisor/
+- Scenario:
+    - Process mining: Explore and analyze business processes using process advisor
+- Steps to run (tested on a Windows 10 Pro VM):
+    - on Windows machine install: Power Automate > Create > Install > **Power Automate for Desktop**,
+    - enable add-in for Edge or Chrome
+    - Demonstrate the core idea, i.e.
+        - in web UI create a process and start recording
+        - the desktop app will open
+        - start recording in the desktop app
+        - use the PC, e.g. open Opera, browse the net, notice your clicks are being recorded
+        - finalize the recording, notice the recording is transferred to make.powerautomate.com
+    - demonstrate: create a recording
+        - follow https://learn.microsoft.com/en-us/training/modules/business-process-optimization-process-advisor/3-create-recording
+        - a tip: you can record anything involving screen interactions, e.g. a process of creating customer invoice in D365 FinOps,
+        - a tip: you can export a process mining using solutions: Add existing > PM Inferred Task
+            - ref: https://learn.microsoft.com/en-us/power-automate/process-advisor-export
+    - Edit recordings and group actions
+    - Analyze recordings and interpret the results
+- Sample solution: **TBD**

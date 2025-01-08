@@ -8,3 +8,5 @@ Extra bits and outstanding
 - $\color{red}{[TBD]}$ FinOps integrations:
     - OData web services
     - Custom web service
+- $\color{red}{[TBD]}$ Process advisor demo:
+    - lab 017 - stuck in state 'in progress', try on another environment (not sbx), try get dev licenses

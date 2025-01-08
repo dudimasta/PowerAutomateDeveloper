@@ -1,0 +1,9 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/set-up-dual-write-finance-operations/exercise
+- Scenario:
+    - you are a technical consultant, you need to setup dual-write
+- Steps to run:
+    - follow the syllabus
+    - if in your organization you won't be granted admin access to Power Platform Administration, then the setup is done by an administrator
+    - Examine dual write integration on e.g. *Terms of payment (msdyn_paymentterms)*
+    - After initial setup is complete, enable synchronization between entities in FinOps and DV
+- Sample solution: not available, as lab result is dual-write configuration of a FinOps and a DV.
