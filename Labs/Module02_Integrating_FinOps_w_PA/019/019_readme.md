@@ -1,6 +1,11 @@
 - Syllabus: https://learn.microsoft.com/en-us/training/modules/set-up-dual-write-finance-operations/exercise
+- Prerequisite
+    - You start this lab with
+        - D365 FinOps deployed and linked to DataVerse environment
+        - Dual-write not configured
 - Scenario:
     - you are a technical consultant, you need to setup dual-write
+    - observe *Terms of payment* created in FinOps get duplicated in DV using dual write
 - Steps to run:
     - follow the syllabus
     - if in your organization you won't be granted admin access to Power Platform Administration, then the setup is done by an administrator
