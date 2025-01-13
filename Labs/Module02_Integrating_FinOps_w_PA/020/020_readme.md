@@ -1,4 +1,17 @@
-- Syllabus:
+- Syllabus: https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/power-platform/enable-virtual-entities
 - Scenario:
+    - You are a consultant, you need to enable Customer Groups from FinOps in Power Platform without duplicating data.
 - Steps to run:
-- Sample solution:
+    - follow steps: https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/power-platform/enable-virtual-entities#generate-virtual-entities
+        - At the top-right of the page, select the Settings gear icon, and select Advanced Settings.
+        - At the top-right of the Settings page, select the **Advanced find filter** icon.
+        - In the Advanced find page, select **Available finance and operations entities** in the Look for drop-down list.
+    - after a virtual entity gets activated in the `Available finance and operations entities`, navigate to
+        - https://make.powerapps.com > managed solution `Dynamics 365 ERP Virtual Entities`
+        - in **tables** look for the virtual entity you've added
+        - examine its data
+        - notice when FinOps environment is offline, the data is **not present in DataVerse**
+        - notice the OData endpoint for a DV table: Power apps > Tables > Customer groups (mserp) (schema name: mserp_custcustomergroupentity) > Tools > API link to data
+- Sample solution: not available, as lab result is a virtual entity in PowerApps showing life data from FinOps.
+- References:
+    - https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/power-platform/virtual-entities-overview
