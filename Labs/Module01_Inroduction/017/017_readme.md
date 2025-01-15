@@ -17,4 +17,5 @@
             - ref: https://learn.microsoft.com/en-us/power-automate/process-advisor-export
     - Edit recordings and group actions
     - Analyze recordings and interpret the results
-- Sample solution: **TBD**
+- Sample solution: None, Demonstrate
+    - Process Power Automate Process Mining app on Windows
