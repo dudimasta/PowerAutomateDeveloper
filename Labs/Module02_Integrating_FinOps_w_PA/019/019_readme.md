@@ -1,5 +1,5 @@
 - Syllabus: https://learn.microsoft.com/en-us/training/modules/set-up-dual-write-finance-operations/exercise
-- Prerequisite (completed by an administrator)
+- Prerequisites (completed by an administrator)
     - D365 FinOps deployed and linked to DataVerse environment
     - Ensure the entity list has been refreshed in FinOps > Data Management > Framework parameters
     - If FinOps was deployed from LCS then ensure dual-write setup completed from LCS environment > Power Platform Integration
