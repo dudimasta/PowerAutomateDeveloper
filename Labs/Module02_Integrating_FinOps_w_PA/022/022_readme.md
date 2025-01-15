@@ -1,0 +1,29 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/extensions-finance-operations-power-platform/exercise-add-segment
+- Prerequisites
+    - all steps (including prerequisites) from 019_readme.md completed 
+        - Finance and operations apps environment with standard Contoso demo data
+        - Dynamics 365 Sales
+        - Dual-write core solution
+        - Dual-write application orchestration solution (up and running)
+    - active synchronization between DEMF legal entity and DataVerse
+    - following entities in _Running_ state:
+        - Customers V3 (accounts)
+        - Payment schedule
+        - Payment days CDS
+        - Terms of payment
+        - Customer groups
+        - Sales tax groups
+        - Customer payment method
+        - Currencies
+- Scenario:
+    - Extend DataVerse data model and extend dual-write synchronization so that custom fields get synchronized
+- Steps to run:
+    - Follow the syllabus
+        - Extend the Dataverse data model
+        - Extend the Customers V3 (Accounts) table map
+        - Examine solution source code exported to Git repo: https://dev.azure.com/xplussa/Xplus%20Solution%20Architecture/_git/General%20Purpose?path=/rdu_022_SegmentIn/rdu_022_SegmentInAccount
+        - Observe changes:
+            - in FinOps open DEMF company and observe raw data: [FnO_URL]/data/CustomersV3
+            - find relevant record in DV, go to table *Accounts* > find record matching e.g. *DE-001* in column `Account Number`
+        - Add Dual Write table maps to the PowerPlatform solution
+- Sample solution: `Labs/Module02_Integrating_FinOps_w_PA/022/rdu_022_SegmentInAccount_1_1_0_1.zip`

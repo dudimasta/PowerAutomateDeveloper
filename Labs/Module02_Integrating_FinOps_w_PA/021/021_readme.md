@@ -1,0 +1,15 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/tools-finance-operations-power-platform/exercise-troubleshoot
+- Scenario:
+    - Troubleshooting dual-write integration
+- Steps to run:
+    - check initial synchronization:
+        - Go to the Initial Sync tab.
+        - Copy the DWM Data management package implementation name.
+            - e.g. DWM-94368f08-31eb-4cda-b973
+        - Sign into finance and operations apps, go to the Data management workspace, and then search by start of project name to identify the project or implementation.
+        - Select Execution detail.
+        - Pause Customers V3 synchronization, modify some data in FinOps, observe entries in Queued records
+- Sample solution: none
+- Refs:
+    - https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/customizing-mappings
+    - ALM https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/app-lifecycle-management/

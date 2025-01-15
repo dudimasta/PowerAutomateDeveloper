@@ -1,0 +1,10 @@
+- Syllabus:
+    - https://learn.microsoft.com/en-us/training/modules/mobile-experiences-finance-operations/
+- Scenario:
+- Steps to run:
+    - **Caution** If prerequisites from Labs/Module02_Integrating_FinOps_w_PA/019/019_readme.md were are competed, then your Power Platform environment has access to Virtual Entities, and you can **skip procedure described in:** 
+        -  https://learn.microsoft.com/en-us/training/modules/mobile-experiences-finance-operations/set-up-dataverse-virtual-entities
+        - https://learn.microsoft.com/en-us/training/modules/mobile-experiences-finance-operations/integration-setup
+    - follow the below procedure to activate in PowerPlatform a Virtual Entity from FinOps
+        - In the effect the data from FinOps is presented as  DataVerse entity
+- Sample solution: discussion and demo only

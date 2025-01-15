@@ -1,0 +1,10 @@
+- Syllabus: none
+- Scenario:
+    - demonstrate invoking raw HTTP call
+        - call over https MS Entra web service and request bearer token used by OAuth when signing in to FinOps
+        - pass required parameters in
+        - parse the response in Power Automate
+        - call OData web services using raw REST request
+        - call a custom web service
+- Steps to run:
+- Sample solution: [TBD]

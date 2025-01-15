@@ -4,9 +4,10 @@
     - Ensure the entity list has been refreshed in FinOps > Data Management > Framework parameters
     - If FinOps was deployed from LCS then ensure dual-write setup completed from LCS environment > Power Platform Integration
         - In case FinOps was deployed from PPAC, it is enabled for dual-write by default.
-    - Ensure in PPAC the D365 app is installed:
+    - Ensure in PPAC the D365 apps are installed:
         - `Dual-write Application Core Solutions`
         - `Dynamics 365 Sales, Enterprise Edition App`
+        - `Dual Write Finance and Extended Solutions`
     - Enable dual-write connection
         - If FinOps was deployed form LCS, then go to LCS > Power Platform Integration > Enable dual-write connection
         - If deployed form PPAC, then install D365 apps containing the maps required
@@ -18,7 +19,7 @@
         - D365 FinOps > Data Management > Dual-write > Health check
 - Scenario:
     - you are a consultant, you need to setup the integration between FinOps and DataVerse using dual-write
-    - observe *Copanies* created in FinOps get duplicated in DV using dual write
+    - observe *Companies* created in FinOps get duplicated in DV using dual write
     - after synchronization indicates *Running* in FinOps, navigate to
         - https://make.powerapps.com > managed solution `Dynamics 365 ERP Virtual Entities`
         - in **tables** look for the virtual entity you've added (Company)
@@ -34,3 +35,5 @@
     - observe contents of table `cdm_company` in DataVerse (from https://make.powerapps.com)
     - notice the OData endpoint for a DV table: Power apps > Tables > Company (cdm_company) > Tools > API link to data
 - Sample solution: not available, as lab result is dual-write configuration of a FinOps and a DV.
+- References:
+    - https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-faq
