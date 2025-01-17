@@ -1,5 +1,7 @@
 - Syllabus: none
-- Scenario:
+- Scenario: 
+    - Explain OAuth
+        https://web.postman.co/
     - demonstrate invoking raw HTTP call
         - call over https MS Entra web service and request bearer token used by OAuth when signing in to FinOps
         - pass required parameters in
