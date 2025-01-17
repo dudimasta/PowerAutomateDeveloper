@@ -1,0 +1,1 @@
+client_id=680d64aa-68c9-411f-8ecb-7c11049fb014&client_secret=[SECRET-GOES-HERE]&grant_type=client_credentials&resource=https://rdu-trn-dv-integr2e7c7ec1ffd40c73devaos.axcloud.dynamics.com/

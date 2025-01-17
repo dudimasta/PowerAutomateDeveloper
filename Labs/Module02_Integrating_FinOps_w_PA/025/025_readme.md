@@ -4,6 +4,6 @@
         - call over https MS Entra web service and request bearer token used by OAuth when signing in to FinOps
         - pass required parameters in
         - parse the response in Power Automate
-        - call a custom web service
+        - call OData web services using raw REST request
 - Steps to run:
-- Sample solution: Labs/Module02_Integrating_FinOps_w_PA/024/(rdu)CallFinOpsCustomService.zip
+- Sample solution: Labs/Module02_Integrating_FinOps_w_PA/025/(rdu)CallFinOpsODataRawREST.zip
