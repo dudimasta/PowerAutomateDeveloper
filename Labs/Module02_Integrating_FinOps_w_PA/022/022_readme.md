@@ -26,4 +26,4 @@
             - in FinOps open DEMF company and observe raw data: [FnO_URL]/data/CustomersV3
             - find relevant record in DV, go to table *Accounts* > find record matching e.g. *DE-001* in column `Account Number`
         - Add Dual Write table maps to the PowerPlatform solution
-- Sample solution: `Labs/Module02_Integrating_FinOps_w_PA/022/rdu_022_SegmentInAccount_1_1_0_1.zip`
+- Sample solution:

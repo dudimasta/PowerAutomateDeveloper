@@ -1,0 +1,5 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/create-first-desktop-flow-online-workshop/exercise-create-flow
+- Scenario:
+- Steps to run:
+    - follow the syllabus
+- Sample solution: [TBD]

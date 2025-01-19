@@ -1,0 +1,11 @@
+- Syllabus: 
+    - https://learn.microsoft.com/en-us/training/modules/install-required-software-online-workshop/install-power-automate
+    - https://learn.microsoft.com/en-us/training/modules/install-required-software-online-workshop/register-machine
+    - https://learn.microsoft.com/en-us/training/modules/install-required-software-online-workshop/install-app
+- Scenario:
+    - Install Power Automate for desktop on your Windows machine (physical or virtual)
+    - Register your machine
+    - Install an app pretending a legacy (desktop) invoicing application
+- Steps to run:
+    - follow the syllabus
+- Sample solution: none as the goal is to setup the environment
