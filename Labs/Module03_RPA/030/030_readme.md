@@ -1,0 +1,12 @@
+- Syllabus: 
+    - https://learn.microsoft.com/en-us/training/modules/integrate-cloud-flows-online-workshop/exercise-create-cloud-flow
+    - https://learn.microsoft.com/en-us/training/modules/integrate-cloud-flows-online-workshop/exercise-monitor-machines
+- Scenario:
+    - Run a desktop flow from a cloud flow
+    - Monitor a machine where desktop flows are executed
+- Steps to run:
+    - As this is a continuation of exercise 029, please either
+        - complete exercise 029 or
+        - import **InvoiceprocessingsolutionFirstLast_1_0_0_2.zip** from https://aka.ms/AutomationIADStudent
+    - follow the two syllabi
+- Sample solution:

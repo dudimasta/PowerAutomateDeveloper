@@ -1,5 +1,6 @@
 - Syllabus: https://learn.microsoft.com/en-us/training/modules/create-first-desktop-flow-online-workshop/exercise-create-flow
 - Scenario:
+    - Create a desktop flow creating an invoice on a legacy application
 - Steps to run:
     - follow the syllabus
-- Sample solution: [TBD]
+- Sample solution:  

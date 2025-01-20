@@ -1,0 +1,9 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/outlook-flows-online-workshop/
+- Scenario:
+    - Create a new solution to package the end-to-end invoice processing solution.
+    - Create a new cloud flow that initiates the invoicing process through the receipt of an email.
+    - Integrate the desktop flow into the cloud flow.
+    - Perform a test run of the new cloud flow.
+- Steps to run:
+    - follow the syllabus
+- Sample solution: [TBD]

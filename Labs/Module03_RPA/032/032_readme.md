@@ -1,0 +1,9 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/integrate-cloud-flows-online-workshop/optional-exercise-work-queues
+- Scenario - Prioritizing tasks
+    - Create a queue for invoices to be entered and posted
+    - Create a desktop flow that reads Excel spreadsheet and loads invoices into the queue
+    - Create a desktop flow that reads the queue and for every item from the queue, triggers the desktop flow for posting the invoice
+- Steps to run:
+    - As this is a continuation of exercise 030, please, complete exercise 030
+    - Follow the syllabus
+- Sample solution: **InvoiceprocessingsolutionFirstLast_1_0_0_3.zip** from https://aka.ms/AutomationIADStudent

@@ -1,0 +1,7 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/use-input-output-online-workshop/exercise-parameters
+- Scenario:
+    - Use input and output variables with a desktop flow
+- Steps to run:
+    - You can use the flow created in exercise 028 as a starter, or you can import a demo flow by following: https://learn.microsoft.com/en-us/training/modules/use-input-output-online-workshop/exercise-import
+    - Once you have a starter flow, please follow the syllabus
+- Sample solution: **InvoiceprocessingsolutionFirstLast_1_0_0_2.zip** from https://aka.ms/AutomationIADStudent
