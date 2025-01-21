@@ -1,0 +1,9 @@
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/add-ai-model-process-invoice-online-workshop/exercise
+- Scenario: Use AI Builder to extract information from an invoice printout
+- Steps to run:
+    - As this is builds on previous exercise, please either:
+        - Complete exercise 033 or
+        - Import **InvoiceprocessingsolutionFirstLast_1_0_0_4.zip** from https://aka.ms/AutomationIADStudent. Post import steps are described in: https://learn.microsoft.com/en-us/training/modules/add-ai-model-process-invoice-online-workshop/import-solution
+    - Follow the syllabus
+    - To test ensure there are only valid attachments, exclude all nice banners from the signature, as they are recognized as attachments as well.
+- Sample solution:
