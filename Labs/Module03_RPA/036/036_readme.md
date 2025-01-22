@@ -1,0 +1,13 @@
+- Syllabus:
+    - https://learn.microsoft.com/en-us/training/modules/create-subflows-web-automation-online-workshop/exercise
+    - https://learn.microsoft.com/en-us/training/modules/create-subflows-web-automation-online-workshop/exercise-advanced
+- Scenario:
+    - Build a Power Automate Desktop **subflow** to write notes into Excel
+    - Build web automation by using Power Automate for desktop
+- Steps to run:
+    - As this is builds on previous exercise, please either:
+        - Complete exercise 034 or
+        - Import **InvoiceprocessingsolutionFirstLast_1_0_0_6.zip** from https://aka.ms/AutomationIADStudent. Post import steps are described in: https://learn.microsoft.com/en-us/training/modules/create-subflows-web-automation-online-workshop/import-solution
+    - Follow both syllabi
+        - notice the second part of the first syllabus should be changed slightly, as the *Create text with GPT using a prompt* connector is available from cloud flow.
+- Sample solution:
