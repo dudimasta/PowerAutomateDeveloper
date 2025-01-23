@@ -1,4 +1,4 @@
-- Syllabus: 
+- Syllabus: https://learn.microsoft.com/en-us/training/modules/integrate-teams-approval-online-workshop/exercise
 - Scenario:
     - Integrate a Microsoft Teams-based approval model and the associated conditional logic into the invoice processing cloud flow.
     - Integrate the desktop flow for entering the invoice information into the approval process.
